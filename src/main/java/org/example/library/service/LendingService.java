@@ -3,7 +3,6 @@ package org.example.library.service;
 import org.example.library.enums.BookStatus;
 import org.example.library.models.Book;
 import org.example.library.models.Loan;
-import org.example.library.models.Patron;
 import org.example.library.repository.BookRepository;
 import org.example.library.repository.LoanRepository;
 import org.example.library.repository.PatronRepository;
